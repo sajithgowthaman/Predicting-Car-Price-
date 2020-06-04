@@ -5,4 +5,4 @@
 
 ![fd6d9082-1280-40ea-95c0-35ef13ad593f_200x200](https://user-images.githubusercontent.com/55968160/83734680-2d669900-a604-11ea-8612-6762640248d3.png)
 
-![100](https://user-images.githubusercontent.com/55968160/83734847-643caf00-a604-11ea-8731-65335960a70e.jpeg)
+<img src="https://user-images.githubusercontent.com/55968160/83734847-643caf00-a604-11ea-8731-65335960a70e.jpeg" width="1000" height="400">
